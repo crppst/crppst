@@ -1,6 +1,13 @@
-
 # **About Me**
-live in Russia and have a strong passion for programming, learning new languages, and exploring frameworks. i develop useful open-source projects, specialize in Kotlin and frontend/backend frameworks, and continuously deepen my knowledge in Kotlin and web development.
+
+I am a passionate software developer from Russia, focused on creating practical open-source solutions. My primary expertise lies in Kotlin and full-stack development.
+
+I am committed to continuous learning and deepening my knowledge in Kotlin ecosystem and web development technologies.
+
+Skills & Technologies:
+
+    Languages: Kotlin, Python, Lua, JavaScript
+    Frontend: Vue, SCSS
 
 #
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=creepypastaking&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
