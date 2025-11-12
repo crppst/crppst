@@ -3,7 +3,7 @@
 I am a passionate software developer from Russia, focused on creating practical open-source solutions. My primary expertise lies in Kotlin and full-stack development.
 I am committed to continuous learning and deepening my knowledge in Kotlin ecosystem and web development technologies.
 
-Skills & Technologies:
+## Skills & Technologies:
 Languages: Kotlin, Python, Lua, JavaScript
 Frontend: Vue, SCSS
 
