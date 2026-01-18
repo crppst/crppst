@@ -1,4 +1,4 @@
-**about**
+# about
 passionate fullstack webdeveloper from Russia
 focused on creating practical open-source solutions
 
