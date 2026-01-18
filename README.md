@@ -1,6 +1,6 @@
 # **About Me**
 
-I am a passionate software developer from Russia, focused on creating practical open-source solutions. my primary expertise lies in kotlin and full-stack development.
+I am a passionate fullstack developer from Russia, focused on creating practical open-source solutions. my primary expertise lies in kotlin and full-stack development.
 I am committed to continuous learning and deepening my knowledge in kotlin ecosystem and web development technologies.
 
 **Programming Languages:**
