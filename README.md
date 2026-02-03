@@ -1,8 +1,3 @@
-### : about
-
-- Passionate fullstack webdeveloper from Russia.
-Focused on creating practical open-source solutions.
-
 ### : tech
 
 - **Web Frontend** -> `Vue 3` • `React` • `Next.js` • `TypeScript`
