@@ -5,6 +5,7 @@ Focused on creating practical open-source solutions.
 
 ### : tech
 
-- languages -> js / ts / html / css / python
-- frameworks -> vue3 / react / next.js
-- tools -> vscode / figma
+- **Web Frontend** -> `Vue 3` • `React` • `Next.js` • `TypeScript`
+- **Backend & Systems** -> `UnoCSS` • `Python` • `Vue.js` |
+- **Minecraft Dev** -> `Paper/Spigot API` • `Fabric` • `Kotlin DSL`
+- **Tools** -> `VS Code` • `IntelliJ IDEA` • `Git`
