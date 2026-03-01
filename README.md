@@ -1,5 +1,7 @@
 ### : tech
 
-- **Web Frontend** -> `Vue 3` • `React` • `Next.js` • `TypeScript`
-- **Backend & Systems** -> `UnoCSS` • `Python` • `Vue.js`
-- **Tools** -> `VS Code` • `IntelliJ IDEA` • `Git`
+| | |
+|---|---|
+| **Frontend** | `Vue 3` `React` `Next.js` `TypeScript` `UnoCSS` |
+| **Backend** | `Python` `Node.js` |
+| **Tools** | `VS Code` `IntelliJ IDEA` `Git` |
